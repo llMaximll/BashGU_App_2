@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BashGU_App</string>
+    <string name="license"><a href="https://strbsu.ru/assets/sveden_files/documents/Licen_26.02.2016.pdf">License</a></string>
+    <string name="application_form_for_admission">Application form for admission</string>
+    <string name="application_form_for_deduction">Application form for deduction</string>
+    <string name="installment_payment_form">Installment payment form</string>
+    <string name="increased_state_academic_scholarship">Increased State academic scholarship</string>
+    <string name="social_scholarship">Social Scholarship</string>
+    <string name="financial_assistance">Financial assistance</string>
+    <string name="information">Information</string>
+    <string name="schedule">Schedule</string>
+    <string name="news">News</string>
+    <string name="profile">Profile</string>
+</resources>

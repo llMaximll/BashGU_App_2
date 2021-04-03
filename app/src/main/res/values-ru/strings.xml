@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BashGU_App</string>
+    <string name="license"><a href="https://strbsu.ru/assets/sveden_files/documents/Licen_26.02.2016.pdf">Лицензия</a></string>
+    <string name="application_form_for_admission">Бланк заявления на поступление</string>
+    <string name="application_form_for_deduction">Бланк заявления на отчисление из филиала</string>
+    <string name="installment_payment_form">Бланк на рассрочку платежа</string>
+    <string name="increased_state_academic_scholarship">Повышенная государственная академическая стипендия</string>
+    <string name="social_scholarship">Социальная стипендия</string>
+    <string name="financial_assistance">Материальная помощь</string>
+    <string name="information">Информация</string>
+    <string name="schedule">Расписание</string>
+    <string name="news">Новости</string>
+    <string name="profile">Профиль</string>
+</resources>
